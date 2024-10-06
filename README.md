@@ -1,4 +1,4 @@
-# recurrent-breast-cancer-detection
+# Recurrent Breast Cancer Detection
 
 ## Introduction
 
